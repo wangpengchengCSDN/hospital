@@ -5,6 +5,7 @@ public class TableEntity {
     private String column;
     private String value;
 
+
     public String getColumn() {
         return column;
     }
